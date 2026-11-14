@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <!-- Ícone PROVISÓRIO (TODO LOGO): linha de cota sobre o papel do Design System. -->
-  <rect width="32" height="32" rx="3" fill="#f3f1ec"/>
-  <path d="M6 16h20M6 11v10M26 11v10" fill="none" stroke="#b4400e" stroke-width="2"/>
-  <path d="M10 13l-4 3 4 3M22 13l4 3-4 3" fill="none" stroke="#15171a" stroke-width="1.5"/>
+  <rect width="32" height="32" rx="4" fill="#0b1828"/>
+  <path d="M8 24V9l6-3v18M14 24V12l9 4v8" fill="none" stroke="#cdb287" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M3 24h26" stroke="#cdb287" stroke-width="1.6"/>
+  <path d="M5 24C11 24 15 15 27 21" fill="none" stroke="#c4262b" stroke-width="1.6"/>
 </svg>
