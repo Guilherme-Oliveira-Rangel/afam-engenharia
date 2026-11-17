@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-label="Foto de exemplo: academia">
-<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1b3355"/><stop offset="1" stop-color="#4a6a92"/></linearGradient></defs>
-<rect width="320" height="240" fill="url(#s)"/>
-<circle cx="268" cy="46" r="14" fill="#f1e6c6" opacity=".85"/>
-<rect x="60" y="90" width="200" height="106" fill="#16294a"/><rect x="72" y="104" width="50" height="44" fill="#e9d9a8"/><rect x="134" y="104" width="50" height="44" fill="#e9d9a8"/><rect x="196" y="104" width="50" height="44" fill="#e9d9a8"/><rect x="60" y="84" width="200" height="8" fill="#cdb287"/><rect x="140" y="158" width="40" height="38" fill="#0e1b30"/>
-<rect y="196" width="320" height="44" fill="#0a1422"/><rect y="196" width="320" height="2" fill="#cdb287" opacity=".5"/>
-</svg>

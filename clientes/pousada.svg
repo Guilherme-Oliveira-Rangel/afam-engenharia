@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-label="Foto de exemplo: pousada">
-<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#223c60"/><stop offset="1" stop-color="#56779f"/></linearGradient></defs>
-<rect width="320" height="240" fill="url(#s)"/>
-<circle cx="268" cy="46" r="14" fill="#f1e6c6" opacity=".85"/>
-<rect x="80" y="120" width="160" height="76" fill="#16294a"/><path d="M70 124L160 70L250 124Z" fill="#1d3557"/><rect x="94" y="140" width="12" height="14" fill="#e9d9a8"/><rect x="118" y="140" width="12" height="14" fill="#1c3150"/><rect x="142" y="140" width="12" height="14" fill="#e9d9a8"/><rect x="166" y="140" width="12" height="14" fill="#e9d9a8"/><rect x="190" y="140" width="12" height="14" fill="#1c3150"/><rect x="214" y="140" width="12" height="14" fill="#1c3150"/><rect x="94" y="166" width="12" height="14" fill="#1c3150"/><rect x="118" y="166" width="12" height="14" fill="#e9d9a8"/><rect x="142" y="166" width="12" height="14" fill="#1c3150"/><rect x="166" y="166" width="12" height="14" fill="#1c3150"/><rect x="190" y="166" width="12" height="14" fill="#1c3150"/><rect x="214" y="166" width="12" height="14" fill="#1c3150"/><rect x="148" y="158" width="24" height="38" fill="#0e1b30"/><circle cx="52" cy="160" r="22" fill="#12304a"/><circle cx="276" cy="164" r="20" fill="#12304a"/>
-<rect y="196" width="320" height="44" fill="#0a1422"/><rect y="196" width="320" height="2" fill="#cdb287" opacity=".5"/>
-</svg>

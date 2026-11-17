@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-label="Foto de exemplo: supermercado">
-<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1c3456"/><stop offset="1" stop-color="#4a6b93"/></linearGradient></defs>
-<rect width="320" height="240" fill="url(#s)"/>
-<circle cx="268" cy="46" r="14" fill="#f1e6c6" opacity=".85"/>
-<rect x="40" y="110" width="240" height="86" fill="#16294a"/><rect x="40" y="96" width="240" height="22" fill="#cdb287"/><rect x="60" y="102" width="90" height="10" fill="#0e1b30"/><rect x="70" y="140" width="70" height="56" fill="#e9d9a8"/><rect x="180" y="140" width="80" height="56" fill="#e9d9a8"/><rect x="60" y="130" width="100" height="10" fill="#a8161c"/>
-<rect y="196" width="320" height="44" fill="#0a1422"/><rect y="196" width="320" height="2" fill="#cdb287" opacity=".5"/>
-</svg>
